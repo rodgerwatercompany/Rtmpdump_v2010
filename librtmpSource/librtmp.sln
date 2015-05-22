@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "librtmp", "librtmp\librtmp.vcxproj", "{767BB98C-9E31-4DB5-BD43-4EB70C729025}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "librtmpConsole", "librtmpConsole\librtmpConsole.vcxproj", "{05F96C64-28E8-4C9A-95D0-EE9D8A1EE06B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{767BB98C-9E31-4DB5-BD43-4EB70C729025}.Debug|Win32.ActiveCfg = Debug|Win32
+		{767BB98C-9E31-4DB5-BD43-4EB70C729025}.Debug|Win32.Build.0 = Debug|Win32
+		{767BB98C-9E31-4DB5-BD43-4EB70C729025}.Release|Win32.ActiveCfg = Release|Win32
+		{767BB98C-9E31-4DB5-BD43-4EB70C729025}.Release|Win32.Build.0 = Release|Win32
+		{05F96C64-28E8-4C9A-95D0-EE9D8A1EE06B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{05F96C64-28E8-4C9A-95D0-EE9D8A1EE06B}.Debug|Win32.Build.0 = Debug|Win32
+		{05F96C64-28E8-4C9A-95D0-EE9D8A1EE06B}.Release|Win32.ActiveCfg = Release|Win32
+		{05F96C64-28E8-4C9A-95D0-EE9D8A1EE06B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

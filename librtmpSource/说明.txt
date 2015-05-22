@@ -1,0 +1,6 @@
+librtmp:为程原文件目录
+librtmpConsole：测试librtmp库项目
+
+\librtmp\include：包含openssl和zlib头文件
+librtmp\lib：包含openssl和zlib静态库,libeay32.lib,ssleay32.lib,zlibstat.lib
+
